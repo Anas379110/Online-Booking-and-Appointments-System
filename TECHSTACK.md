@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — نظام الحجز والمواعيد الإلكتروني
+# 🛠️ Technologies used — Online Booking & Appointment Reservation System
 
 - React
 - TypeScript

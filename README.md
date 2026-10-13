@@ -1,21 +1,20 @@
-# نظام الحجز والمواعيد الإلكتروني
-**Online Booking & Appointment Reservation System** · التصنيف: ويب / تطبيق
+# Online Booking & Appointment Reservation System
+**Online Booking & Appointment Reservation System** · Category: Web / App
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-منصة حجز كاملة مع Stripe و SendGrid و Twilio.
+## Project overview
+Full booking platform with Stripe, SendGrid, and Twilio.
 
-## أبرز النقاط
-- تقويم متوفر + منع التعارض
-- Stripe Webhooks للاسترداد والاشتراكات
-- سير عمل إشعارات البريد + SMS
+## Highlights
+- Calendar availability + conflict prevention
+- Stripe Webhooks for refunds and subscriptions
+- Email + SMS notification workflows
 
-## الدور
-مطوّر ويب/تطبيقات: بناء تطبيق الويب من الواجهة حتى الخدمات الخلفية والتكاملات.
+## Role
+Web/Apps Developer: built the web application from frontend through backend services and integrations.
 
-## التقنيات المستخدمة
+## Technologies used
 React, TypeScript, ASP.NET Core, SQL Server, Stripe, SendGrid, Azure, Docker, Twilio
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
